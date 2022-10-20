@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwordclock"]=self["webpackChunkwordclock"]||[]).push([[443],{9404:function(e,n,c){c.r(n),c.d(n,{default:function(){return d}});var r=c(3396);const t={class:"about"},s=(0,r._)("h1",null,"This is a WordClock implemeneted in Typescript with vuejs.",-1),u=[s];function i(e,n){return(0,r.wg)(),(0,r.iD)("div",t,u)}var o=c(89);const l={},a=(0,o.Z)(l,[["render",i]]);var d=a}}]);
+//# sourceMappingURL=about.ce95cd7c.js.map
